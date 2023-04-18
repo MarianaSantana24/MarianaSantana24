@@ -26,4 +26,5 @@
   
 </div>
 
-https://github.com/MarianaSantana24/MarianaSantana24/blob/output/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/MarianaSantana24/MarianaSantana24/blob/output/github-contribution-grid-snake.svg)
+  
